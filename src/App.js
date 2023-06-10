@@ -6,12 +6,13 @@ import Home from './components/Home/Home';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 import MusicPlaylist from './components/MusicPlaylist/MusicPlaylist';
-import Error from './components/Error/Error';
+import InstallAppButton from './components/InstallAppButton/InstallAppButton';
 
 const App = () => {
   return (
     <>
       <Navbar />
+      <InstallAppButton />
       <Switch>
         <Route path="/" component={Home} exact />
         <Route path="/about" component={About} />
