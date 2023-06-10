@@ -26,8 +26,8 @@
     animation: rotate-cd 3s infinite linear;
 }
 
-.paused {
-    animation-play-state: paused;
+audio{
+    width:500px;
 }
 
 @keyframes rotate-cd {
