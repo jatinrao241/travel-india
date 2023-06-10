@@ -1,0 +1,39 @@
+nav{
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+nav .custom-css-navbar{
+    color:black;
+    background-color: rgb(248, 248, 248);
+    font-weight:500;
+    padding:10px 20px;
+    margin:4px;
+    border-radius:5px;
+    text-decoration: none;
+}
+
+nav .custom-css-navbar:hover{
+    background-color: rgb(241, 241, 241);
+}
+
+nav .active-css{
+    color:rgb(19, 19, 19);
+    background-color: rgb(231, 231, 231);
+}
+
+@media (max-width:591px) {
+    nav .custom-css-navbar{
+        padding:7px 13px;
+        margin:2px;
+        font-size:14.8px;
+    }
+}
+
+@media (max-width:391px) {
+    nav .custom-css-navbar{
+        padding:5px 10px;
+        font-size:14px;
+    }
+}
