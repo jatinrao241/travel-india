@@ -2,7 +2,7 @@ export function registerServiceWorker() {
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', () => {
       navigator.serviceWorker
-        .register('/service-worker.js', { scope: '/' })
+        .register('/travel-india/service-worker.js', { scope: '/' })
         .then((registration) => {
           console.log('ServiceWorker registration successful:', registration);
         })
