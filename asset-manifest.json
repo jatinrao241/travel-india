@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/travel-india/static/css/main.66933db0.css",
-    "main.js": "/travel-india/static/js/main.a4771a38.js",
+    "main.css": "/travel-india/static/css/main.ef1365e6.css",
+    "main.js": "/travel-india/static/js/main.7fcbc8b6.js",
     "static/media/song1007.mp3": "/travel-india/static/media/song1007.7acf5f1aa556113e149e.mp3",
     "static/media/song1005.mp3": "/travel-india/static/media/song1005.0c1f41e5b16d3dc56ce8.mp3",
     "static/media/song1004.mp3": "/travel-india/static/media/song1004.571ece630c27248303dd.mp3",
@@ -13,11 +13,11 @@
     "static/media/song1000.mp3": "/travel-india/static/media/song1000.4ea902f2fa1549b4808b.mp3",
     "static/media/song1003.mp3": "/travel-india/static/media/song1003.bbcaee945c16a003b77b.mp3",
     "index.html": "/travel-india/index.html",
-    "main.66933db0.css.map": "/travel-india/static/css/main.66933db0.css.map",
-    "main.a4771a38.js.map": "/travel-india/static/js/main.a4771a38.js.map"
+    "main.ef1365e6.css.map": "/travel-india/static/css/main.ef1365e6.css.map",
+    "main.7fcbc8b6.js.map": "/travel-india/static/js/main.7fcbc8b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.66933db0.css",
-    "static/js/main.a4771a38.js"
+    "static/css/main.ef1365e6.css",
+    "static/js/main.7fcbc8b6.js"
   ]
 }
