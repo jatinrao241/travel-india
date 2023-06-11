@@ -1,23 +1,38 @@
 {
   "files": {
     "main.css": "/travel-india/static/css/main.dd0337fa.css",
-    "main.js": "/travel-india/static/js/main.296bbf4a.js",
+    "main.js": "/travel-india/static/js/main.36f9d939.js",
+    "static/media/song1015.mp3": "/travel-india/static/media/song1015.53327664bd74b2bb7ff0.mp3",
     "static/media/song1007.mp3": "/travel-india/static/media/song1007.7acf5f1aa556113e149e.mp3",
     "static/media/song1005.mp3": "/travel-india/static/media/song1005.0c1f41e5b16d3dc56ce8.mp3",
+    "static/media/song1010.mp3": "/travel-india/static/media/song1010.1c0f5cc2e5514e9cde76.mp3",
+    "static/media/song1023.mp3": "/travel-india/static/media/song1023.2afee4682b9976c653e5.mp3",
     "static/media/song1004.mp3": "/travel-india/static/media/song1004.571ece630c27248303dd.mp3",
+    "static/media/song1019.mp3": "/travel-india/static/media/song1019.4dee73cc80953fc82ecc.mp3",
     "static/media/song1002.mp3": "/travel-india/static/media/song1002.63883d6679fb84cf54c7.mp3",
+    "static/media/song1014.mp3": "/travel-india/static/media/song1014.962c7ddde7f15461eb86.mp3",
     "static/media/song1001.mp3": "/travel-india/static/media/song1001.3f1b3ebe4a7c3a297722.mp3",
+    "static/media/song1022.mp3": "/travel-india/static/media/song1022.ce18e000e8278bd4e976.mp3",
     "static/media/song1008.mp3": "/travel-india/static/media/song1008.6ea7bf769a7ccc25c49c.mp3",
+    "static/media/song1024.mp3": "/travel-india/static/media/song1024.dddef95672a76f356da2.mp3",
+    "static/media/song1016.mp3": "/travel-india/static/media/song1016.b002ad5fa8857873245d.mp3",
+    "static/media/song1012.mp3": "/travel-india/static/media/song1012.d78a0da63ce69b0b029a.mp3",
+    "static/media/song1018.mp3": "/travel-india/static/media/song1018.f28ea738459a7d5f5ca5.mp3",
+    "static/media/song1017.mp3": "/travel-india/static/media/song1017.018cf547cfa4b909c994.mp3",
     "static/media/song1006.mp3": "/travel-india/static/media/song1006.2ed328ea77ec3380dae7.mp3",
     "static/media/song1009.mp3": "/travel-india/static/media/song1009.24da7c229ce0893cd51e.mp3",
     "static/media/song1000.mp3": "/travel-india/static/media/song1000.4ea902f2fa1549b4808b.mp3",
+    "static/media/song1021.mp3": "/travel-india/static/media/song1021.9fe5c38768ada08cb832.mp3",
     "static/media/song1003.mp3": "/travel-india/static/media/song1003.bbcaee945c16a003b77b.mp3",
+    "static/media/song1011.mp3": "/travel-india/static/media/song1011.56766c805db15e3f6053.mp3",
+    "static/media/song1013.mp3": "/travel-india/static/media/song1013.3e0a583cabc09d5c68fc.mp3",
+    "static/media/song1020.mp3": "/travel-india/static/media/song1020.0dc861c73c9296e491be.mp3",
     "index.html": "/travel-india/index.html",
     "main.dd0337fa.css.map": "/travel-india/static/css/main.dd0337fa.css.map",
-    "main.296bbf4a.js.map": "/travel-india/static/js/main.296bbf4a.js.map"
+    "main.36f9d939.js.map": "/travel-india/static/js/main.36f9d939.js.map"
   },
   "entrypoints": [
     "static/css/main.dd0337fa.css",
-    "static/js/main.296bbf4a.js"
+    "static/js/main.36f9d939.js"
   ]
 }
