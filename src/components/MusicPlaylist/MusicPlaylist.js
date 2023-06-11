@@ -10,6 +10,21 @@ import song1006 from '../../assets/audio/song1006.mp3';
 import song1007 from '../../assets/audio/song1007.mp3';
 import song1008 from '../../assets/audio/song1008.mp3';
 import song1009 from '../../assets/audio/song1009.mp3';
+import song1010 from '../../assets/audio/song1010.mp3';
+import song1011 from '../../assets/audio/song1011.mp3';
+import song1012 from '../../assets/audio/song1012.mp3';
+import song1013 from '../../assets/audio/song1013.mp3';
+import song1014 from '../../assets/audio/song1014.mp3';
+import song1015 from '../../assets/audio/song1015.mp3';
+import song1016 from '../../assets/audio/song1016.mp3';
+import song1017 from '../../assets/audio/song1017.mp3';
+import song1018 from '../../assets/audio/song1018.mp3';
+import song1019 from '../../assets/audio/song1019.mp3';
+import song1020 from '../../assets/audio/song1020.mp3';
+import song1021 from '../../assets/audio/song1021.mp3';
+import song1022 from '../../assets/audio/song1022.mp3';
+import song1023 from '../../assets/audio/song1023.mp3';
+import song1024 from '../../assets/audio/song1024.mp3';
 
 const MusicPlaylist = () => {
   const songs = [
@@ -23,6 +38,21 @@ const MusicPlaylist = () => {
     { id: 8, title: 'Song 8', artist: 'Artist 8', url: song1007 },
     { id: 9, title: 'Song 9', artist: 'Artist 9', url: song1008 },
     { id: 10, title: 'Song 10', artist: 'Artist 10', url: song1009 },
+    { id: 11, title: 'Song 11', artist: 'Artist 11', url: song1010 },
+    { id: 12, title: 'Song 12', artist: 'Artist 12', url: song1011 },
+    { id: 13, title: 'Song 13', artist: 'Artist 13', url: song1012 },
+    { id: 14, title: 'Song 14', artist: 'Artist 14', url: song1013 },
+    { id: 15, title: 'Song 15', artist: 'Artist 15', url: song1014 },
+    { id: 16, title: 'Song 16', artist: 'Artist 16', url: song1015 },
+    { id: 17, title: 'Song 17', artist: 'Artist 17', url: song1016 },
+    { id: 18, title: 'Song 18', artist: 'Artist 18', url: song1017 },
+    { id: 19, title: 'Song 19', artist: 'Artist 19', url: song1018 },
+    { id: 20, title: 'Song 20', artist: 'Artist 20', url: song1019 },
+    { id: 21, title: 'Song 21', artist: 'Artist 21', url: song1020 },
+    { id: 22, title: 'Song 22', artist: 'Artist 22', url: song1021 },
+    { id: 23, title: 'Song 23', artist: 'Artist 23', url: song1022 },
+    { id: 24, title: 'Song 24', artist: 'Artist 24', url: song1023 },
+    { id: 25, title: 'Song 25', artist: 'Artist 25', url: song1024 },
     // Add more songs as needed
   ];
 
@@ -60,7 +90,7 @@ const MusicPlaylist = () => {
       }
     };
   }, [playNextSong]);
-  
+
   useEffect(() => {
     // Pause the audio and reset the current song index when navigating away
     return () => {
