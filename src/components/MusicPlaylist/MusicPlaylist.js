@@ -25,6 +25,32 @@ import song1021 from '../../assets/audio/song1021.mp3';
 import song1022 from '../../assets/audio/song1022.mp3';
 import song1023 from '../../assets/audio/song1023.mp3';
 import song1024 from '../../assets/audio/song1024.mp3';
+import song1025 from '../../assets/audio/song1025.mp3';
+import song1026 from '../../assets/audio/song1026.mp3';
+import song1027 from '../../assets/audio/song1027.mp3';
+import song1028 from '../../assets/audio/song1028.mp3';
+import song1029 from '../../assets/audio/song1029.mp3';
+import song1030 from '../../assets/audio/song1030.mp3';
+import song1031 from '../../assets/audio/song1031.mp3';
+import song1032 from '../../assets/audio/song1032.mp3';
+import song1033 from '../../assets/audio/song1033.mp3';
+import song1034 from '../../assets/audio/song1034.mp3';
+import song1035 from '../../assets/audio/song1035.mp3';
+import song1036 from '../../assets/audio/song1036.mp3';
+import song1037 from '../../assets/audio/song1037.mp3';
+import song1038 from '../../assets/audio/song1038.mp3';
+import song1039 from '../../assets/audio/song1039.mp3';
+import song1040 from '../../assets/audio/song1040.mp3';
+import song1041 from '../../assets/audio/song1041.mp3';
+import song1042 from '../../assets/audio/song1042.mp3';
+import song1043 from '../../assets/audio/song1043.mp3';
+import song1044 from '../../assets/audio/song1044.mp3';
+import song1045 from '../../assets/audio/song1045.mp3';
+import song1046 from '../../assets/audio/song1046.mp3';
+import song1047 from '../../assets/audio/song1047.mp3';
+import song1048 from '../../assets/audio/song1048.mp3';
+import song1049 from '../../assets/audio/song1049.mp3';
+
 
 const MusicPlaylist = () => {
   const songs = [
@@ -53,6 +79,32 @@ const MusicPlaylist = () => {
     { id: 23, title: 'Song 23', artist: 'Artist 23', url: song1022 },
     { id: 24, title: 'Song 24', artist: 'Artist 24', url: song1023 },
     { id: 25, title: 'Song 25', artist: 'Artist 25', url: song1024 },
+    { id:	26, title: 'Song 26', artist: 'Artist	26', url: song1025 },
+    { id:	27, title: 'Song 27', artist: 'Artist	27', url: song1026 },
+    { id:	28, title: 'Song 28', artist: 'Artist	28', url: song1027 },
+    { id:	29, title: 'Song 29', artist: 'Artist	29', url: song1028 },
+    { id:	30, title: 'Song 30', artist: 'Artist	30', url: song1029 },
+    { id:	31, title: 'Song 31', artist: 'Artist	31', url: song1030 },
+    { id:	32, title: 'Song 32', artist: 'Artist	32', url: song1031 },
+    { id:	33, title: 'Song 33', artist: 'Artist	33', url: song1032 },
+    { id:	34, title: 'Song 34', artist: 'Artist	34', url: song1033 },
+    { id:	35, title: 'Song 35', artist: 'Artist	35', url: song1034 },
+    { id:	36, title: 'Song 36', artist: 'Artist	36', url: song1035 },
+    { id:	37, title: 'Song 37', artist: 'Artist	37', url: song1036 },
+    { id:	38, title: 'Song 38', artist: 'Artist	38', url: song1037 },
+    { id:	39, title: 'Song 39', artist: 'Artist	39', url: song1038 },
+    { id:	40, title: 'Song 40', artist: 'Artist	40', url: song1039 },
+    { id:	41, title: 'Song 41', artist: 'Artist	41', url: song1040 },
+    { id:	42, title: 'Song 42', artist: 'Artist	42', url: song1041 },
+    { id:	43, title: 'Song 43', artist: 'Artist	43', url: song1042 },
+    { id:	44, title: 'Song 44', artist: 'Artist	44', url: song1043 },
+    { id:	45, title: 'Song 45', artist: 'Artist	45', url: song1044 },
+    { id:	46, title: 'Song 46', artist: 'Artist	46', url: song1045 },
+    { id:	47, title: 'Song 47', artist: 'Artist	47', url: song1046 },
+    { id:	48, title: 'Song 48', artist: 'Artist	48', url: song1047 },
+    { id:	49, title: 'Song 49', artist: 'Artist	49', url: song1048 },
+    { id:	50, title: 'Song 50', artist: 'Artist	50', url: song1049 },
+
     // Add more songs as needed
   ];
 
