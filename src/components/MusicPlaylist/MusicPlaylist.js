@@ -68,22 +68,22 @@ const MusicPlaylist = () => {
       audioRef.current.pause();
     }
   }, [isPlaying]);
-  
+
   const playNextSong = useCallback(() => {
     const nextIndex = currentSongIndex === songs.length - 1 ? 0 : currentSongIndex + 1;
     setCurrentSongIndex(nextIndex);
     setIsPlaying(true);
   }, [currentSongIndex, songs.length]);
-  
+
   useEffect(() => {
     const handleEnded = () => {
       playNextSong();
     };
-  
+
     if (audioRef.current) {
       audioRef.current.addEventListener('ended', handleEnded);
     }
-  
+
     return () => {
       if (audioRef.current) {
         audioRef.current.removeEventListener('ended', handleEnded);
@@ -129,7 +129,9 @@ const MusicPlaylist = () => {
         <h3>{currentSong.title}</h3>
         <p>{currentSong.artist}</p>
         <div className='rotate-box-center'>
-          <div className={`rotate-cd-circle ${isPlaying ? "rotate_continue" : ""}`}></div>
+          <div className={`rotate-cd-circle ${isPlaying ? "rotate_continue" : ""}`}>
+            <div className='line-rotate'></div>
+          </div>
         </div>
         <audio
           ref={audioRef}
