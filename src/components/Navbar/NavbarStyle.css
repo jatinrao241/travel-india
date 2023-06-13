@@ -31,9 +31,16 @@ nav .active-css{
     }
 }
 
+@media (max-width:491px) {
+    nav .custom-css-navbar{
+        padding:5px 8px;
+        font-size:13px;
+    }
+}
+
 @media (max-width:391px) {
     nav .custom-css-navbar{
-        padding:5px 10px;
-        font-size:14px;
+        padding:5px 6px;
+        font-size:12px;
     }
 }
