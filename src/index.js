@@ -17,7 +17,7 @@ if ('serviceWorker' in navigator) {
 // this code copy end for install app in this file
 
 ReactDOM.render(
-  <BrowserRouter>
+  <BrowserRouter basename='/travel-india'>
     <App />
   </BrowserRouter>,
   document.getElementById('root')
