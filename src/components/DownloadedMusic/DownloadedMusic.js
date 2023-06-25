@@ -122,7 +122,9 @@ const DownloadedMusic = () => {
           )}
           <button onClick={playNextSong}>Next</button>
         </div>
-        <input type='file' multiple onChange={handleFileSelect} />
+        <div className='select-music-input'>
+          <input type='file' multiple onChange={handleFileSelect} />
+        </div>
       </div>
     </div>
   );

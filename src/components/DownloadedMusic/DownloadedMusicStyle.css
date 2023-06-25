@@ -57,6 +57,10 @@ audio{
     width:500px;
 }
 
+.select-music-input{
+    padding-top:10px;
+}
+
 @keyframes rotate-cd {
     0% {
       transform: rotate(360deg);
